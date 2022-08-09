@@ -1,6 +1,6 @@
                      06/08/22             \" DATE
 
-.Sh AUTHOR 		\"C. cuteface udoekong, Tevin Matema
+.Sh AUTHOR 		\"C. Ernest Thompson, Girum Getachew
 
 .Dt _Printf ( "Alx Software Engineering Printf Manual"  \" Program name and manual section number
 .   
@@ -71,10 +71,10 @@ int main()
 
 {
 
-_printf("Hello world, I'm a %s", "cuteface");
+_printf("Hello world, I'm a %s", "Ernest");
 
 return (0);
 
 }
 
-Hello world, I'm a cuteface
+Hello world, I'm a Ernest
